@@ -1,6 +1,5 @@
-# DFG
 ## Discriminative Feature Generation for Classification of Imbalanced Data in PyTorch
-<img width="394" alt="KakaoTalk_20200609_175422271" src="https://user-images.githubusercontent.com/27656658/84163587-5363c180-aa7a-11ea-8139-414874727a0b.png">
+<img width="400" alt="Figure1" src="https://user-images.githubusercontent.com/27656658/84164881-b73aba00-aa7b-11ea-9905-bc182d670cde.png">
 
 Abstract
 
