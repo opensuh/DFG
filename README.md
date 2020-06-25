@@ -83,7 +83,7 @@ The performance of each model
 
 ## Prerequisites
 - Linux (Ubuntu)
-- Python 3
+- Python >= 3.6
 - NVIDIA GPU + CUDA CuDNN
 
 ## Installation
@@ -120,7 +120,8 @@ cd dfg
 ./scripts/resnet_food_train.sh
 ```
 
-- Evaluation the model (our pretrained model is in ./pretrained_model)
+- Evaluate the model (our pre-trained models are in ./pretrained_model)
+- We plan to upload the pre-trained models on our Github page.
 ```bash
 ./scripts/lenet_svhn_eval.sh
 ./scripts/lenet_fmnist_eval.sh
@@ -129,3 +130,10 @@ cd dfg
 ./scripts/resnet_caltech_eval.sh
 ./scripts/resnet_food_eval.sh
 ```
+<!--
+## Contributing
+
+If you'd like to contribute, or have any suggestions for these repo, you can contact us at hello@paperswithcode.com or open an issue on this GitHub repository. 
+
+All contributions welcome! All content in this repository is licensed under the MIT license.
+-->
