@@ -88,13 +88,12 @@ The performance of each model
 
 ## Installation
 
-<!--
+
 - Clone this repo:
 ```bash
-git clone https://github.com/
-cd dfg
+git clone https://github.com/opensuh/DFG/
 ```
--->
+
 
 - Install [PyTorch](http://pytorch.org)
   - For pip users, please type the command `pip install -r requirements.txt`.
@@ -130,10 +129,3 @@ cd dfg
 ./scripts/resnet_caltech_eval.sh
 ./scripts/resnet_food_eval.sh
 ```
-<!--
-## Contributing
-
-If you'd like to contribute, or have any suggestions for these repo, you can contact us at hello@paperswithcode.com or open an issue on this GitHub repository. 
-
-All contributions welcome! All content in this repository is licensed under the MIT license.
--->
