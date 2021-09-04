@@ -1,6 +1,9 @@
 ## Discriminative Feature Generation for Classification of Imbalanced Data in PyTorch
 <img width="400" alt="Figure1" src="https://user-images.githubusercontent.com/27656658/84164881-b73aba00-aa7b-11ea-9905-bc182d670cde.png">
 
+A Pytorch implementation of Two-Stage Generative Adversarial Networks for Document Image Binarization described in the paper:
+* Sungho Suh, Paul Lukowicz, and Yong Oh Lee, "Discriminative feature generation for classification of imbalanced data", Pattern Recognition, 2021. [[Pattern Recognition](https://doi.org/10.1016/j.patcog.2021.108302)] [[arXiv](https://arxiv.org/abs/2010.12888)]
+
 Abstract
 
 The data imbalance problem is frequently bottleneck of the neural network performance in classification. In this paper, we propose a novel supervised discriminative feature generation method (DFG) for minority class dataset. DFG is based on the modified structure of Generative Adversarial Network consisting of four independent networks: generator, discriminator, feature extractor, and classifier. To augment the selected discriminative features of minority class data by adopting attention mechanism, the generator for class-imbalanced target task is trained while feature extractor and classifier are regularized with the pre-trained ones from large source data. The experimental results show that the generator of DFG enhances the augmentation of label-preserved and diverse features, and classification results are significantly improved on the target task.
