@@ -2,7 +2,7 @@
 <img width="400" alt="Figure1" src="https://user-images.githubusercontent.com/27656658/84164881-b73aba00-aa7b-11ea-9905-bc182d670cde.png">
 
 A Pytorch implementation of Discriminative feature generation for classification of imbalanced data described in the paper:
-* Sungho Suh, Paul Lukowicz, and Yong Oh Lee, "Discriminative feature generation for classification of imbalanced data", Pattern Recognition, 2021. [[Pattern Recognition](https://doi.org/10.1016/j.patcog.2021.108302)] [[arXiv](https://arxiv.org/abs/2010.12888)]
+* Sungho Suh, Paul Lukowicz, and Yong Oh Lee, "Discriminative feature generation for classification of imbalanced data", Pattern Recognition, 2022. [[Pattern Recognition](https://doi.org/10.1016/j.patcog.2021.108302)] [[arXiv](https://arxiv.org/abs/2010.12888)]
 
 Abstract
 
